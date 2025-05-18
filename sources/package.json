@@ -1,0 +1,14 @@
+{
+  "name": "sources",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@shikijs/langs-precompiled": "^3.4.2",
+    "@types/bun": "latest",
+    "shiki": "^3.4.2"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
